@@ -4,20 +4,18 @@ set -e
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Image build config
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-: "${NOCTURNE_IMAGE_VERSION:="v3.0.0"}"
+: "${LLIZARDOS_VERSION:="v1.0.0"}"
+export LLIZARDOS_VERSION
 
-: "${NOCTURNE_UI_TAG:="main"}"
-: "${NOCTURNED_TAG:="v1.0.16"}"
 : "${WINGMAN_TAG:="v1.0.1"}"
 
 : "${VOID_BUILD:="20250202"}"
-: "${STATIC_WEB_SERVER_VERSION:="v2.38.0"}"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # System config
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-: "${DEFAULT_HOSTNAME:="nocturne"}"
-: "${DEFAULT_ROOT_PASSWORD:="nocturne"}"
+: "${DEFAULT_HOSTNAME:="llizardos"}"
+: "${DEFAULT_ROOT_PASSWORD:="llizardos"}"
 : "${DEFAULT_SERVICES:=""}"
 
 : "${SIZE_ROOT_FS:="516M"}"
@@ -103,7 +101,7 @@ run_stage_scripts() {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Stage 00 - Prepare root FS
 # Stage 10 - Configure system
-# Stage 20 - Nocturne configuration
+# Stage 20 - llizardOS configuration
 # Stage 30 - Cleanup
 # Stage 40 - Create images
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

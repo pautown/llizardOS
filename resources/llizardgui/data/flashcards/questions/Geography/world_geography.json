@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "answer": "Nile River"
+    },
+    {
+      "question": "Mount Everest is located on the border of which two countries?",
+      "options": ["India and China", "Nepal and China", "Nepal and India", "Bhutan and China"],
+      "answer": "Nepal and China"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "In which country is the Eiffel Tower located?",
+      "options": ["Italy", "Spain", "France", "Germany"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Osaka", "Kyoto", "Tokyo", "Nagoya"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "options": ["Asia", "Africa", "Australia", "South America"],
+      "answer": "Africa"
+    },
+    {
+      "question": "What is the smallest country in the world by area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "Which river flows through London?",
+      "options": ["Seine", "Danube", "Thames", "Rhine"],
+      "answer": "Thames"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+      "answer": "Brasilia"
+    },
+    {
+      "question": "The Great Wall of China is approximately how long?",
+      "options": ["5,000 km", "13,000 km", "21,000 km", "8,000 km"],
+      "answer": "21,000 km"
+    },
+    {
+      "question": "Which country has the most natural lakes?",
+      "options": ["United States", "Russia", "Canada", "Finland"],
+      "answer": "Canada"
+    },
+    {
+      "question": "What is the largest country in Africa by area?",
+      "options": ["Sudan", "Algeria", "Democratic Republic of Congo", "Libya"],
+      "answer": "Algeria"
+    },
+    {
+      "question": "In which city is the Colosseum located?",
+      "options": ["Athens", "Rome", "Istanbul", "Cairo"],
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Alps", "Himalayas", "Ural Mountains", "Caucasus Mountains"],
+      "answer": "Ural Mountains"
+    },
+    {
+      "question": "What is the deepest lake in the world?",
+      "options": ["Lake Superior", "Lake Baikal", "Lake Tanganyika", "Caspian Sea"],
+      "answer": "Lake Baikal"
+    },
+    {
+      "question": "Which country is home to Machu Picchu?",
+      "options": ["Colombia", "Ecuador", "Peru", "Bolivia"],
+      "answer": "Peru"
+    },
+    {
+      "question": "What is the capital of South Africa (executive)?",
+      "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+      "answer": "Pretoria"
+    },
+    {
+      "question": "Which strait separates Europe from Africa?",
+      "options": ["Strait of Hormuz", "Strait of Gibraltar", "Bosphorus Strait", "Strait of Malacca"],
+      "answer": "Strait of Gibraltar"
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "options": ["Borneo", "Madagascar", "Greenland", "New Guinea"],
+      "answer": "Greenland"
+    },
+    {
+      "question": "In which country would you find the Taj Mahal?",
+      "options": ["Pakistan", "Bangladesh", "India", "Nepal"],
+      "answer": "India"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["Alexandria", "Cairo", "Luxor", "Giza"],
+      "answer": "Cairo"
+    },
+    {
+      "question": "Which waterfall is located on the border of Argentina and Brazil?",
+      "options": ["Niagara Falls", "Victoria Falls", "Iguazu Falls", "Angel Falls"],
+      "answer": "Iguazu Falls"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+      "answer": "Ankara"
+    },
+    {
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": ["Gobi Desert", "Arabian Desert", "Sahara Desert", "Kalahari Desert"],
+      "answer": "Sahara Desert"
+    },
+    {
+      "question": "The Amazon Rainforest is primarily located in which country?",
+      "options": ["Colombia", "Peru", "Brazil", "Venezuela"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "What is the highest waterfall in the world?",
+      "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+      "answer": "Angel Falls"
+    },
+    {
+      "question": "Which sea is the saltiest in the world?",
+      "options": ["Mediterranean Sea", "Red Sea", "Dead Sea", "Caspian Sea"],
+      "answer": "Dead Sea"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "options": ["Auckland", "Christchurch", "Wellington", "Queenstown"],
+      "answer": "Wellington"
+    },
+    {
+      "question": "Which African country was formerly known as Abyssinia?",
+      "options": ["Kenya", "Somalia", "Ethiopia", "Sudan"],
+      "answer": "Ethiopia"
+    },
+    {
+      "question": "What is the largest country in the world by area?",
+      "options": ["Canada", "China", "United States", "Russia"],
+      "answer": "Russia"
+    },
+    {
+      "question": "The Statue of Liberty was a gift from which country?",
+      "options": ["United Kingdom", "France", "Germany", "Italy"],
+      "answer": "France"
+    },
+    {
+      "question": "Which river runs through the Grand Canyon?",
+      "options": ["Missouri River", "Colorado River", "Rio Grande", "Columbia River"],
+      "answer": "Colorado River"
+    }
+  ]
+}

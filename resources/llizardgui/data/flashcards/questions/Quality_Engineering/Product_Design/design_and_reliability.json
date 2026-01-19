@@ -1,0 +1,374 @@
+{
+  "questions": [
+    {
+      "question": "Failure modes and effects analysis involves what activity?",
+      "options": [
+        "The determination of the probability of failure in a specified period of time",
+        "The expected number of failures in a given time interval",
+        "The study of failure to determine how a product fails and what causes the failure",
+        "A study of the probability of success in a given time period"
+      ],
+      "answer": "The study of failure to determine how a product fails and what causes the failure"
+    },
+    {
+      "question": "Inherent or intrinsic reliability",
+      "options": [
+        "Is that reliability which can be improved only by design change",
+        "Can be improved only by a state of the art improvement",
+        "Is that reliability estimated over a stated period of time by a stated measurement technique",
+        "Is not an estimated reliability"
+      ],
+      "answer": "Is that reliability which can be improved only by design change"
+    },
+    {
+      "question": "Which of the following safety and liability statements is true?",
+      "options": [
+        "Safe products start in the fabrication of manufacturing stage",
+        "Labeling the product as having specific limitations has little impact on liability",
+        "A manufacturer may not be held responsible if a product has changed hands",
+        "As long as a product is in operation a manufacturer can be held liable in the case of bodily injury"
+      ],
+      "answer": "As long as a product is in operation a manufacturer can be held liable in the case of bodily injury"
+    },
+    {
+      "question": "Maintainability is:",
+      "options": [
+        "The probability of a system being restored to functional operation within a given period of time",
+        "Improved only by a state of the art improvement",
+        "The probability of survival of a system for a given period of time",
+        "Maintaining a machine in satisfactory working condition"
+      ],
+      "answer": "The probability of a system being restored to functional operation within a given period of time"
+    },
+    {
+      "question": "A corporation makes a product which is a blend of three ingredients (A, B, and C). If the individual tolerances for the weights of the three ingredients are as shown, what would be the tolerance for the blended product? Ingredient A: 66 +- 3.0 grams, Ingredient B: 20 +- 2.0 grams, Ingredient C: 14 +- 1.73 grams",
+      "options": [
+        "100 +- 6.73 grams",
+        "100 +- 4.46 grams",
+        "100 +- 4.00 grams (additive law of variances)",
+        "100 +- 2.59 grams"
+      ],
+      "answer": "100 +- 4.00 grams (additive law of variances)"
+    },
+    {
+      "question": "Which of the following quality management principles would one apply to increase the probability of better quality?",
+      "options": [
+        "Drawings and specifications should be rigidly set with nominal enforcement",
+        "Drawings and specifications should be realistically set with rigid enforcement",
+        "Drawings and specifications should be under the direction of quality engineering",
+        "Drawings and specifications should be rigidly set and rigidly enforced"
+      ],
+      "answer": "Drawings and specifications should be realistically set with rigid enforcement"
+    },
+    {
+      "question": "For a shaft with a specification of 1.000\" +- 0.005\", what is the MMC? (most material allowed by the tolerance)",
+      "options": [
+        "1.000\" maximum",
+        "0.995\" minimum",
+        "1.000\" +- 0.005\"",
+        "1.005\" maximum"
+      ],
+      "answer": "1.005\" maximum"
+    },
+    {
+      "question": "Reliability, maintainability, and product safety improvements are most often economically accomplished during which of the following phases?",
+      "options": [
+        "Design and development",
+        "Prototype test",
+        "Production",
+        "Field operation"
+      ],
+      "answer": "Design and development"
+    },
+    {
+      "question": "New products will have a greater chance of success if they have which of the following characteristics?",
+      "options": [
+        "A highly competitive market",
+        "A unique and superior product",
+        "Being first to market",
+        "A competitive price"
+      ],
+      "answer": "A unique and superior product"
+    },
+    {
+      "question": "On blueprints, thin lines with arrows at each end and numbers placed near their midpoints, specifying a part size, are called:",
+      "options": [
+        "Conversion lines",
+        "Dimension lines",
+        "Object lines",
+        "Hidden lines"
+      ],
+      "answer": "Dimension lines"
+    },
+    {
+      "question": "The principal purpose of robust design techniques is to:",
+      "options": [
+        "Make the product less sensitive to noise effects",
+        "Use the tools of experimental design",
+        "Reduce the sources of variation",
+        "Improve manufacturing quality"
+      ],
+      "answer": "Make the product less sensitive to noise effects"
+    },
+    {
+      "question": "On blueprints, the extreme measurements permitted by the maximum and minimum size of the features of an object are called",
+      "options": [
+        "Limit tolerances",
+        "Nominal dimensions",
+        "Single limit tolerances",
+        "Unilateral tolerances"
+      ],
+      "answer": "Limit tolerances"
+    },
+    {
+      "question": "The stage gate process is used by many companies to screen and pass projects, but many companies fail to use the process properly. A common problem in the stage gate process, that could negate its benefits, would be:",
+      "options": [
+        "Failure to kill a project",
+        "Too many kills in the system",
+        "Teams are overloaded with projects",
+        "Requirements are not established"
+      ],
+      "answer": "Failure to kill a project"
+    },
+    {
+      "question": "If the mean time between failure has been found to be 13 hours for a given radar system, what is the reliability of the radar at t = 13.2 hours? (exponential formula for reliability)",
+      "options": [
+        "0.920",
+        "0.206",
+        "0.362",
+        "0.985"
+      ],
+      "answer": "0.362"
+    },
+    {
+      "question": "The risk priority number is used when:",
+      "options": [
+        "Auditing safety hazards",
+        "Predicting reliability",
+        "Constructing a fault tree",
+        "Completing a FMECA"
+      ],
+      "answer": "Completing a FMECA"
+    },
+    {
+      "question": "A design review is conducted for the purpose of:",
+      "options": [
+        "Verifying the details of all the drawings",
+        "Verifying the accuracy of all the specifications",
+        "Verifying workmanship quality of the drawings",
+        "Verifying the completeness and accuracy of the overall design package"
+      ],
+      "answer": "Verifying the completeness and accuracy of the overall design package"
+    },
+    {
+      "question": "The ratio of the probability density function to the reliability function for the exponential distribution is:",
+      "options": [
+        "The cumulative density function",
+        "The cumulative distribution function",
+        "The gamma function",
+        "The hazard function"
+      ],
+      "answer": "The hazard function"
+    },
+    {
+      "question": "The house of quality is used to translate customer wants into engineering design variables. The linking of prioritizing of customer wants into engineered values occurs in what element?",
+      "options": [
+        "The competitive analysis",
+        "A conflict analysis",
+        "A technical review",
+        "The relationship matrix"
+      ],
+      "answer": "The relationship matrix"
+    },
+    {
+      "question": "Specifying a tolerance by +0.000\" -0.001\", is known as:",
+      "options": [
+        "Bilateral tolerancing",
+        "Limit dimensioning",
+        "Manufacturing limits",
+        "Unilateral tolerancing"
+      ],
+      "answer": "Unilateral tolerancing"
+    },
+    {
+      "question": "Which of the following is best suited for modeling the reliability of a complex piece of equipment?",
+      "options": [
+        "Hazard analysis",
+        "FMEA",
+        "MIL-STD-217",
+        "Vector space analysis"
+      ],
+      "answer": "Hazard analysis"
+    },
+    {
+      "question": "A product development process should consist of:",
+      "options": [
+        "An individual product developer",
+        "A relay team of function-to-function specialists",
+        "Internal quality teams",
+        "Multi-function teams"
+      ],
+      "answer": "Multi-function teams"
+    },
+    {
+      "question": "A component has a constant failure rate. The variance of the time to fail distribution is 100, what is the mean time to fail?",
+      "options": [
+        "10",
+        "8.75",
+        "23.91",
+        "100"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "Preventive maintenance can be justified as cost effective when:",
+      "options": [
+        "A system life is determined by MTTF",
+        "A complex system consisting of many components is involved",
+        "The system is in a constant failure mode ",
+        "The corrective maintenance cost can be significantly reduced"
+      ],
+      "answer": "The corrective maintenance cost can be significantly reduced"
+    },
+    {
+      "question": "A surface of revolution (a cylinder, cone, or sphere) is considered which of the following when all points on the surface intersected by a plane are equidistant from the axis?",
+      "options": [
+        "Circular",
+        "Symmetrical",
+        "Concentric",
+        "Cylindrical"
+      ],
+      "answer": "Circular"
+    },
+    {
+      "question": "A reliability data system usually implies collecting data on:",
+      "options": [
+        "Process machine downtime",
+        "Product failures and operation time",
+        "Maintenance costs",
+        "Repair time"
+      ],
+      "answer": "Product failures and operation time"
+    },
+    {
+      "question": "Criminal liability involving injury cases may be invoked in all of the following areas?",
+      "options": [
+        "Mountebank",
+        "Caveat emptor",
+        "Negligence",
+        "Unknowingly violating a law"
+      ],
+      "answer": "Negligence"
+    },
+    {
+      "question": "Formal release of a new design for production is authorized by:",
+      "options": [
+        "Quality control engineering",
+        "The contractual department",
+        "A make-or-buy committee",
+        "Design engineering"
+      ],
+      "answer": "Design engineering"
+    },
+    {
+      "question": "When making a drawing, the draftsperson should select views with the fewest hidden lines becuase:",
+      "options": [
+        "The object can be dimensioned properly",
+        "One needs four views to make the object clear",
+        "The fewer hidden lines on the drawing, the easier it is to understand",
+        "The object will be easier to draw"
+      ],
+      "answer": "The fewer hidden lines on the drawing, the easier it is to understand"
+    },
+    {
+      "question": "Parts in use during the random failure or normal portion of the part life cycle curve will exhibit:",
+      "options": [
+        "A constant failure rate",
+        "A decreasing failure rate",
+        "A low failure rate",
+        "An increasing failure rate"
+      ],
+      "answer": "A constant failure rate"
+    },
+    {
+      "question": "The qualification of a sophisticated product would entail:",
+      "options": [
+        "Neither verification nor validation",
+        "Verification, but not validation",
+        "Both verification and validation",
+        "Validation, but not verification"
+      ],
+      "answer": "Both verification and validation"
+    },
+    {
+      "question": "The primary reason that nonconforming material should be identified and segregated is:",
+      "options": [
+        "So that the cause of nonconformity can be determined",
+        "So it cannot be used in production without proper authorization",
+        "To obetain samples of poor workmanship for use in the company's training program",
+        "So that responsibility can be determined and disciplinary action taken"
+      ],
+      "answer": "So it cannot be used in production without proper authorization"
+    },
+    {
+      "question": "Using ANSI/ASQ Z1.4 for a lot of 1,000 parts, a general inspection level II, the code letter J, an AOL of 1.0%, and a sample size of 80, what is the accept number?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "In the pre-production phase of quality planning, an appropriate activity would be to:",
+      "options": [
+        "Assess the capability of the entire quality organization",
+        "Determine the technical depth of available manpower in design engineering",
+        "Establish compatible approaches for accumulation of data",
+        "Conduct process capability studies to measure process expectations"
+      ],
+      "answer": "Conduct process capability studies to measure process expectations"
+    },
+    {
+      "question": "Even though sampling presents some disadvantages, which of the following is a valid reason for its continued widespread use",
+      "options": [
+        "It is more accurate than 100% inspection",
+        "It is less expensive than full inspection",
+        "It requires less administrative expense that a full inspection",
+        "It generates less scrap than 100% inspection"
+      ],
+      "answer": "It is less expensive than full inspection"
+    },
+    {
+      "question": "Where inspector efficiency is defined as the ratio of correct decisions to the total decisions regarding individual items, most inspection operations performed by human inspectors are approximately: ",
+      "options": [
+        "40%-50% efficient",
+        "55%-70% efficient",
+        "70%-95% efficient",
+        "95%-100% efficient"
+      ],
+      "answer": "70%-95% efficient"
+    },
+    {
+      "question": "The most significant elements of a material review report are the identification of the type of defect and:",
+      "options": [
+        "The identification of the discrepant parts or materials",
+        "The identification of the operation in which the defect was introduced",
+        "A detailing of the quality history of the process",
+        "Identification of the responsible operator"
+      ],
+      "answer": "The identification of the discrepant parts or materials"
+    },
+    {
+      "question": "Once a quality level has been established, attribute sampling costs can be effectively lowered (with relatively small risks) by:",
+      "options": [
+        "Sampling only those locations in the batch that are observed to contain defectives",
+        "Reducing the number of inspectors required",
+        "Switching from an attribute plan to a variable plan",
+        "Reducing the number of samples such as going from single to double sampling"
+      ],
+      "answer": "Reducing the number of samples such as going from single to double sampling"
+    }
+  ]
+}

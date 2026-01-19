@@ -1,0 +1,179 @@
+{
+  "questions": [
+    {
+      "question": "Which film won the Academy Award for Best Picture in 1994?",
+      "options": ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Lion King"],
+      "answer": "Forrest Gump"
+    },
+    {
+      "question": "Who directed the movie 'Jaws' (1975)?",
+      "options": ["George Lucas", "Steven Spielberg", "Martin Scorsese", "Francis Ford Coppola"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which band released the album 'Abbey Road' in 1969?",
+      "options": ["The Rolling Stones", "The Who", "The Beatles", "Led Zeppelin"],
+      "answer": "The Beatles"
+    },
+    {
+      "question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
+      "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"],
+      "answer": "Avatar"
+    },
+    {
+      "question": "Which TV series features the fictional country of Westeros?",
+      "options": ["The Witcher", "Game of Thrones", "Lord of the Rings", "Vikings"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Prince", "Elvis Presley", "Michael Jackson", "Stevie Wonder"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "question": "Which actress won an Oscar for her role in 'La La Land' (2016)?",
+      "options": ["Natalie Portman", "Emma Stone", "Jennifer Lawrence", "Amy Adams"],
+      "answer": "Emma Stone"
+    },
+    {
+      "question": "What is the name of the coffee shop in the TV series 'Friends'?",
+      "options": ["Central Perk", "The Coffee Bean", "Mocha Joe's", "Cafe Nervosa"],
+      "answer": "Central Perk"
+    },
+    {
+      "question": "Which artist released the album 'Thriller' in 1982?",
+      "options": ["Prince", "Michael Jackson", "Madonna", "Whitney Houston"],
+      "answer": "Michael Jackson"
+    },
+    {
+      "question": "In which year did the first 'Star Wars' film premiere?",
+      "options": ["1975", "1977", "1979", "1980"],
+      "answer": "1977"
+    },
+    {
+      "question": "Who played the character of Jack Dawson in 'Titanic' (1997)?",
+      "options": ["Brad Pitt", "Tom Cruise", "Leonardo DiCaprio", "Matt Damon"],
+      "answer": "Leonardo DiCaprio"
+    },
+    {
+      "question": "Which TV show features a chemistry teacher turned meth manufacturer?",
+      "options": ["Dexter", "Breaking Bad", "The Wire", "Narcos"],
+      "answer": "Breaking Bad"
+    },
+    {
+      "question": "What band is Freddie Mercury associated with?",
+      "options": ["Led Zeppelin", "Queen", "Pink Floyd", "The Rolling Stones"],
+      "answer": "Queen"
+    },
+    {
+      "question": "Which film features the quote 'I'll be back'?",
+      "options": ["RoboCop", "Die Hard", "The Terminator", "Predator"],
+      "answer": "The Terminator"
+    },
+    {
+      "question": "Who won the Grammy for Album of the Year in 2020 for 'When We All Fall Asleep, Where Do We Go?'?",
+      "options": ["Taylor Swift", "Ariana Grande", "Billie Eilish", "Lizzo"],
+      "answer": "Billie Eilish"
+    },
+    {
+      "question": "What animated film features a clownfish searching for his son?",
+      "options": ["Shark Tale", "Finding Nemo", "The Little Mermaid", "Moana"],
+      "answer": "Finding Nemo"
+    },
+    {
+      "question": "Which singer is known as 'The Material Girl'?",
+      "options": ["Cyndi Lauper", "Whitney Houston", "Madonna", "Janet Jackson"],
+      "answer": "Madonna"
+    },
+    {
+      "question": "What is the name of the fictional paper company in 'The Office' (US)?",
+      "options": ["Dunder Mifflin", "Wernham Hogg", "Sterling Cooper", "Prestige Worldwide"],
+      "answer": "Dunder Mifflin"
+    },
+    {
+      "question": "Which director is known for films like 'Inception' and 'The Dark Knight'?",
+      "options": ["Quentin Tarantino", "Christopher Nolan", "Denis Villeneuve", "Ridley Scott"],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "question": "What year did Elvis Presley die?",
+      "options": ["1975", "1977", "1979", "1980"],
+      "answer": "1977"
+    },
+    {
+      "question": "Which TV series is set in the fictional town of Hawkins, Indiana?",
+      "options": ["Twin Peaks", "Stranger Things", "Riverdale", "Dark"],
+      "answer": "Stranger Things"
+    },
+    {
+      "question": "Who sang the theme song for the James Bond film 'Skyfall'?",
+      "options": ["Shirley Bassey", "Adele", "Sam Smith", "Madonna"],
+      "answer": "Adele"
+    },
+    {
+      "question": "Which film won the first Academy Award for Best Picture in 1929?",
+      "options": ["The Jazz Singer", "Wings", "Sunrise", "The Broadway Melody"],
+      "answer": "Wings"
+    },
+    {
+      "question": "What instrument does Yo-Yo Ma famously play?",
+      "options": ["Violin", "Piano", "Cello", "Flute"],
+      "answer": "Cello"
+    },
+    {
+      "question": "Which actress played Hermione Granger in the Harry Potter films?",
+      "options": ["Emma Watson", "Emma Stone", "Emma Roberts", "Emily Blunt"],
+      "answer": "Emma Watson"
+    },
+    {
+      "question": "What is the longest-running animated TV series in the United States?",
+      "options": ["Family Guy", "South Park", "The Simpsons", "SpongeBob SquarePants"],
+      "answer": "The Simpsons"
+    },
+    {
+      "question": "Which rock band released 'Stairway to Heaven'?",
+      "options": ["Pink Floyd", "Led Zeppelin", "Deep Purple", "Black Sabbath"],
+      "answer": "Led Zeppelin"
+    },
+    {
+      "question": "Who directed 'Schindler's List' (1993)?",
+      "options": ["Steven Spielberg", "Martin Scorsese", "Oliver Stone", "Clint Eastwood"],
+      "answer": "Steven Spielberg"
+    },
+    {
+      "question": "Which streaming service produced the series 'Squid Game'?",
+      "options": ["Amazon Prime", "HBO Max", "Netflix", "Disney+"],
+      "answer": "Netflix"
+    },
+    {
+      "question": "What was Whitney Houston's best-selling single?",
+      "options": ["Greatest Love of All", "I Will Always Love You", "I Wanna Dance with Somebody", "How Will I Know"],
+      "answer": "I Will Always Love You"
+    },
+    {
+      "question": "Which actor has won the most Academy Awards?",
+      "options": ["Jack Nicholson", "Katharine Hepburn", "Meryl Streep", "Daniel Day-Lewis"],
+      "answer": "Katharine Hepburn"
+    },
+    {
+      "question": "What TV show features the phrase 'Winter is Coming'?",
+      "options": ["The Witcher", "Vikings", "Game of Thrones", "The Last Kingdom"],
+      "answer": "Game of Thrones"
+    },
+    {
+      "question": "Which artist painted themselves into many of their music videos and is known for hits like 'Purple Rain'?",
+      "options": ["David Bowie", "Prince", "Michael Jackson", "George Michael"],
+      "answer": "Prince"
+    },
+    {
+      "question": "What is the name of the robot in 'The Iron Giant' (1999)?",
+      "options": ["Optimus", "The Iron Giant", "Gort", "Robby"],
+      "answer": "The Iron Giant"
+    },
+    {
+      "question": "Which singer released the album '21' in 2011?",
+      "options": ["Taylor Swift", "Lady Gaga", "Adele", "Beyonce"],
+      "answer": "Adele"
+    }
+  ]
+}

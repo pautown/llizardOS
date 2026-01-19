@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which programming language is this plugin written in?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "C",
+        "Rust"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What library does llizardgui-host use for graphics?",
+      "options": [
+        "SDL",
+        "OpenGL directly",
+        "raylib",
+        "SFML"
+      ],
+      "answer": "raylib"
+    }
+  ]
+}

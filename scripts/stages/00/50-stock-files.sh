@@ -12,6 +12,7 @@ ln -sf libevdev.so.2.2.0 "$ROOTFS_PATH"/usr/lib/libevdev.so.2
 ln -sf libffi.so.7.1.0 "$ROOTFS_PATH"/usr/lib/libffi.so.7
 ln -sf libdrm.so.2.4.0 "$ROOTFS_PATH"/usr/lib/libdrm.so.2
 ln -sf libMali.so "$ROOTFS_PATH"/usr/lib/libgbm.so
+ln -sf libMali.so "$ROOTFS_PATH"/usr/lib/libgbm.so.1
 ln -sf libMali.so "$ROOTFS_PATH"/usr/lib/libEGL.so.1.4
 ln -sf libMali.so "$ROOTFS_PATH"/usr/lib/libGLESv1_CM.so.1.1
 ln -sf libMali.so "$ROOTFS_PATH"/usr/lib/libGLESv2.so.2.0

@@ -13,8 +13,7 @@ cp "$RES_PATH"/config/weston.ini "$RES_PATH"/config/background.png "$ROOTFS_PATH
 # i don't feel like figuring out this issue right now
 # echo "/lib/modules/4.9.113/hardware/aml-4.9/arm/gpu/mali.ko" > "$ROOTFS_PATH"/etc/modules-load.d/mali.conf
 
-cp -a "$SCRIPTS_PATH"/services/weston "$ROOTFS_PATH"/etc/sv/
-cp -a "$SCRIPTS_PATH"/services/chromium "$ROOTFS_PATH"/etc/sv/
 cp -a "$SCRIPTS_PATH"/services/auto_brightness "$ROOTFS_PATH"/etc/sv/
 
-DEFAULT_SERVICES="${DEFAULT_SERVICES} seatd weston chromium auto_brightness"
+# weston/chromium services removed - using DRM rendering via llizardGUI
+DEFAULT_SERVICES="${DEFAULT_SERVICES} auto_brightness"

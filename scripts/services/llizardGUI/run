@@ -1,0 +1,22 @@
+#!/bin/sh
+exec 2>&1
+
+# Wait for dbus (only hard dependency)
+sv check dbus > /dev/null || exit 1
+
+# Load Mali GPU kernel module (CRITICAL - must load before starting GUI)
+modprobe mali 2>/dev/null || \
+  insmod /lib/modules/4.9.113/hardware/aml-4.9/arm/gpu/mali.ko 2>/dev/null || true
+
+# Trigger input device udev rules
+udevadm trigger --subsystem-match=input > /dev/null 2>&1
+udevadm settle > /dev/null 2>&1
+
+# Set up environment for DRM rendering
+export XDG_RUNTIME_DIR="/run/llizard"
+mkdir -p "$XDG_RUNTIME_DIR"
+chmod 0700 "$XDG_RUNTIME_DIR"
+
+# Run llizardGUI from plugins directory (on system partition, not hidden by /var mounts)
+cd /usr/lib/llizard
+exec /usr/bin/llizardGUI

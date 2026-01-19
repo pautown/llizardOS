@@ -1,0 +1,29 @@
+#!/bin/sh
+exec 2>&1
+
+# Wait for required services
+sv check dbus > /dev/null || exit 1
+sv check redis > /dev/null || exit 1
+sv check bluetooth_adapter > /dev/null || exit 1
+sv check bluetoothd > /dev/null || exit 1
+
+# Wait for Bluetooth hardware to be ready (hci0 device)
+# bluetooth_adapter runs btattach which takes time to initialize
+timeout=30
+while [ $timeout -gt 0 ]; do
+  if [ -d /sys/class/bluetooth/hci0 ]; then
+    break
+  fi
+  sleep 1
+  timeout=$((timeout - 1))
+done
+
+if [ ! -d /sys/class/bluetooth/hci0 ]; then
+  echo "Bluetooth hardware not ready after 30 seconds"
+  exit 1
+fi
+
+# Give bluetoothd a moment to register the adapter
+sleep 2
+
+exec /usr/bin/janus

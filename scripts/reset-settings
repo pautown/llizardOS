@@ -9,6 +9,10 @@ if ! grep -q "${PARTITION}" /proc/mounts; then
 
   mount -t ext4 -o rw ${PARTITION} ${MOUNT}
 
+  # Create required directories on /var/lib partition
+  mkdir -p ${MOUNT}/redis
+  mkdir -p ${MOUNT}/bluetooth
+
   chmod 755 -R ${MOUNT}
 
   sync

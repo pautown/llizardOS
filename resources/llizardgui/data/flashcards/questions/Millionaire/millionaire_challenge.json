@@ -1,0 +1,95 @@
+{
+  "millionaire_mode": true,
+  "questions": [
+    {
+      "question": "What color is a ripe banana?",
+      "options": ["Blue", "Yellow", "Purple", "Green"],
+      "answer": "Yellow",
+      "difficulty": "$100"
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "options": ["Six", "Four", "Eight", "Ten"],
+      "answer": "Eight",
+      "difficulty": "$200"
+    },
+    {
+      "question": "What planet do we live on?",
+      "options": ["Mars", "Venus", "Earth", "Jupiter"],
+      "answer": "Earth",
+      "difficulty": "$300"
+    },
+    {
+      "question": "In what ocean is Hawaii located?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean",
+      "difficulty": "$500"
+    },
+    {
+      "question": "What is the capital city of France?",
+      "options": ["London", "Berlin", "Madrid", "Paris"],
+      "answer": "Paris",
+      "difficulty": "$1,000"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Au'?",
+      "options": ["Silver", "Gold", "Aluminum", "Argon"],
+      "answer": "Gold",
+      "difficulty": "$2,000"
+    },
+    {
+      "question": "In what year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945",
+      "difficulty": "$4,000"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Heart", "Skin"],
+      "answer": "Skin",
+      "difficulty": "$8,000"
+    },
+    {
+      "question": "Which composer wrote 'The Four Seasons'?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Antonio Vivaldi", "Ludwig van Beethoven"],
+      "answer": "Antonio Vivaldi",
+      "difficulty": "$16,000"
+    },
+    {
+      "question": "What is the only mammal capable of true sustained flight?",
+      "options": ["Flying Squirrel", "Sugar Glider", "Bat", "Colugo"],
+      "answer": "Bat",
+      "difficulty": "$32,000"
+    },
+    {
+      "question": "In Greek mythology, who was the ferryman of the dead across the River Styx?",
+      "options": ["Hermes", "Charon", "Thanatos", "Hades"],
+      "answer": "Charon",
+      "difficulty": "$64,000"
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+      "answer": "Vatican City",
+      "difficulty": "$125,000"
+    },
+    {
+      "question": "The Rosetta Stone was instrumental in deciphering which ancient writing system?",
+      "options": ["Cuneiform", "Egyptian Hieroglyphics", "Linear A", "Mayan Glyphs"],
+      "answer": "Egyptian Hieroglyphics",
+      "difficulty": "$250,000"
+    },
+    {
+      "question": "What is the term for a word that is spelled the same forwards and backwards?",
+      "options": ["Anagram", "Palindrome", "Acronym", "Homophone"],
+      "answer": "Palindrome",
+      "difficulty": "$500,000"
+    },
+    {
+      "question": "In what year was the first successful human heart transplant performed?",
+      "options": ["1954", "1961", "1967", "1973"],
+      "answer": "1967",
+      "difficulty": "$1,000,000"
+    }
+  ]
+}

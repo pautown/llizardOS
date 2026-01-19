@@ -1,0 +1,684 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following MRB actions would almost certainly require the involvement of the customer, when a noncomforming product is discovered internally?",
+      "options": [
+        "Rework or repair of the product",
+        "Reject of scrap of the project",
+        "Require additional inspection or testing",
+        "Initiate a corrective action request"
+      ],
+      "answer": "Rework or repair of the product"
+    },
+    {
+      "question": "In ANSI/ASQ Z1.4, the AQL is always determined at what Pa on the OC curve?",
+      "options": [
+        "0.05",
+        "0.10",
+        "0.90 or 0.95",
+        "None of the above"
+      ],
+      "answer": "None of the above"
+    },
+    {
+      "question": "Two quantities which uniquely determine a single sampling attributes plan are:",
+      "options": [
+        "AQL and LTPD",
+        "Sample size and rejection number",
+        "AQL and producer's risk",
+        "LTPD and consumer's risk"
+      ],
+      "answer": "Sample size and rejection number"
+    },
+    {
+      "question": "An inspection performance audit is made of eight inspectors in an area of complex assembly, all doing similar work. Seven inspectors have an average monthly acceptance rate of 86% to 92%; one inspector has an average rate of 72% with approximately four times the daily variation as the others. Based on this audit, you should, as inspection supervisor;",
+      "options": [
+        "Promote the 72% inspector since he/she is very conscientious",
+        "Discipline the 72% inspector since he/she is creating needless rework and wasted time",
+        "Initiate a special investigation of inspection and manufacturing performance",
+        "Discipline the other seven inspectors since they are not \"cracking down\""
+      ],
+      "answer": "Initiate a special investigation of inspection and manufacturing performance"
+    },
+    {
+      "question": "When planning quality control functions, which of the following is most directly related to production of a quality product?",
+      "options": [
+        "Process control and process capability",
+        "Suitable blueprints and blueprint interpretation",
+        "Dimensional tolerancing and incoming inspection",
+        "Product audits and analytical studies"
+      ],
+      "answer": "Process control and process capability"
+    },
+    {
+      "question": "Using ANSI/ASQ Z1.4, determine the sample size(s) for a lot of 300, AQL = 0.4%, level II normal inspection, double sampling:",
+      "options": [
+        "32, 64",
+        "32",
+        "20, 40",
+        "50"
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "In the planning of a new major manufacturing program, the greatest quality effort should be put logically in:",
+      "options": [
+        "Inspection of product",
+        "Nondestructive testing equipment",
+        "Nonconformance to specifications",
+        "Prevention of occurrence of substandard quality"
+      ],
+      "answer": "Prevention of occurrence of substandard quality"
+    },
+    {
+      "question": "The AQL (accepted quality limit) for a given sampling plan is 1%. This means that:",
+      "options": [
+        "There is a small risk that lots with 1% defective or less are rejected",
+        "All accepted lots are 1% defective or less",
+        "All lots are 1% defective or less",
+        "The average quality level of the plan is 1%"
+      ],
+      "answer": "There is a small risk that lots with 1% defective or less are rejected"
+    },
+    {
+      "question": "When any discontinuity is of such size, shape, type, and location that it creates a substantial chance of material failure in service, it is commonly called which of the following?",
+      "options": [
+        "Major discontinuity",
+        "Type B discontinuity",
+        "Rejection",
+        "Defect"
+      ],
+      "answer": "Defect"
+    },
+    {
+      "question": "What is the importance of the reaction plan in a control plan?",
+      "options": [
+        "It describes what will happen if a key variable goes out of control",
+        "It indicates that a new team must be formed to react to a problem",
+        "It lists how often the process should be monitored",
+        "It defines the special characteristics to be monitored"
+      ],
+      "answer": "It describes what will happen if a key variable goes out of control"
+    },
+    {
+      "question": "ANSI/ASQ Z1.4 sampling plans allow reduced inspection when four requirements are met. One of these is:",
+      "options": [
+        "Inspection level 1 is specified",
+        "10 lots have been on normal inspection and none have been rejected",
+        "The process average is less than the AOQL",
+        "The maximum percent defective is less than the AQL"
+      ],
+      "answer": "10 lots have been on normal inspection and none have been rejected"
+    },
+    {
+      "question": "The steeper the OC curve, the:",
+      "options": [
+        "Less protection for both producer and consumer",
+        "More protection for both producer and consumer",
+        "The lower the AQL",
+        "The smaller the sample size"
+      ],
+      "answer": "More protection for both producer and consumer"
+    },
+    {
+      "question": "The implementation of a control plan in the painting department was so successful that at master black belt wants you to implement the same control plan in the final assembly line. What changes should be made before implementing the necessary control plan?",
+      "options": [
+        "Each control plan is unique, a new plan must be developed for the final assembly line",
+        "A lot of changes will be necessary",
+        "No changes are needed, since the two areas are in the same company",
+        "Minor changes may be necessary to reflect the assebly line differences"
+      ],
+      "answer": "Each control plan is unique, a new plan must be developed for the final assembly line"
+    },
+    {
+      "question": "Random selection of a smaple:",
+      "options": [
+        "Theoretically means that each item in the lot had an equal chance to be selected",
+        "Ensures that the sample average will equal the population average",
+        "Means that a table of random numbers was used to dictate the selection",
+        "Is a meaningless theoretical requirement"
+      ],
+      "answer": "Theoretically means that each item in the lot had an equal chance to be selected"
+    },
+    {
+      "question": "The most important activity of a material review board (MRB) would normally be:",
+      "options": [
+        "Making sure that corrective action is taken to prevent recurrence of the problem",
+        "To provide a segregated area for holding discrepant material pending disposition",
+        "To prepare discrepant material reports for management review",
+        "To accept discrepant material when \"commercial\" decisions dictate"
+      ],
+      "answer": "Making sure that corrective action is taken to prevent recurrence of the problem"
+    },
+    {
+      "question": "When inspection identification is required on a batch of parts and the parts are too small to identify individually, which of the following actions is most appropriate?",
+      "options": [
+        "Ignore the request and concentrate on parts that can be identified",
+        "Record the inspection information on the routing slip",
+        "Attach an inspection tag, card, or label to the container containing the parts",
+        "Refer the matter to the material review board"
+      ],
+      "answer": "Attach an inspection tag, card, or label to the container containing the parts"
+    },
+    {
+      "question": "A sampling plan from ANSI/ASQ Z1.4 for reduced inspection accepts one (1) and rejects three (3). If two (2) defects are found, one should:",
+      "options": [
+        "Accept the lot and return to normal inspection",
+        "Draw a second sample",
+        "Reinspect the sample",
+        "Move to the next sampling plan"
+      ],
+      "answer": "Accept the lot and return to normal inspection"
+    },
+    {
+      "question": "Which of the following inspection activities is used to distinguish good lots from bad lots?",
+      "options": [
+        "Pre-control sampling ",
+        "Control sampling",
+        "Acceptance sampling ",
+        "Accuracy inspection"
+      ],
+      "answer": "Acceptance sampling "
+    },
+    {
+      "question": "The purpose of a written inspection procedure is to:",
+      "options": [
+        "Provide answers to inspection questions",
+        "Let the operator know what the inspector is doing",
+        "Fool-proof the inspection function",
+        "Standardize methods and procedures of inspectors"
+      ],
+      "answer": "Standardize methods and procedures of inspectors"
+    },
+    {
+      "question": "Which of the following activities might be the most important action of the MRB?",
+      "options": [
+        "Deciding what to do with scrap material",
+        "Deciding what to do with nonconforming material",
+        "Deciding when to call the customer regarding borderline material",
+        "Deciding when corrective action is necessary"
+      ],
+      "answer": "Deciding when corrective action is necessary"
+    },
+    {
+      "question": "In comparison with attributes sampling plans, variables sampling planes:",
+      "options": [
+        "Have the advantage of greater simplicity",
+        "Usually require a larger sample size for comparable assurance as to the correctness of decisions",
+        "Have the advantage of being applicable to either single or multiple quality characteristics",
+        "Provide greater assurance, for the same sample size, as to the correctness of decisions"
+      ],
+      "answer": "Provide greater assurance, for the same sample size, as to the correctness of decisions"
+    },
+    {
+      "question": "Which of the following terms represents permission in writing to accept for use, a completed but nonconforming item, either \"as is\" or upon completion of rework for a given number of units or specified period of time?",
+      "options": [
+        "Deviation permit",
+        "Waiver",
+        "Reworkable acceptance",
+        "Equivalent item"
+      ],
+      "answer": "Waiver"
+    },
+    {
+      "question": "Which of the following elements would be expected on a control plan form?",
+      "options": [
+        "Specifications and key input/output variables",
+        "Potential causes of failure",
+        "Material identification and traceability",
+        "Material segregation and part identification"
+      ],
+      "answer": "Specifications and key input/output variables"
+    },
+    {
+      "question": "Precision can be best defined as:",
+      "options": [
+        "The ability to target a process to a specified normal value",
+        "The average reading determined after repeated measurements by different operators",
+        "The difference between the repeated measurements on the same item",
+        "The agreement of closeness of measurements on the same item"
+      ],
+      "answer": "The agreement of closeness of measurements on the same item"
+    },
+    {
+      "question": "The yellow faceplate on a dial indicates that the instrument:",
+      "options": [
+        "Is in metric instead of English units",
+        "Has a revolution counter which contains part of the measurement",
+        "Has a balanced, not a continuous, dial readout",
+        "Is graduated smaller than +/- .001 units"
+      ],
+      "answer": "Is in metric instead of English units"
+    },
+    {
+      "question": "A subsurface discontinuity in some purchased steel bar stock is suspected to be the cause of high failure rates. Which of the following nondestructive test (NDT) methods could be used to screen the bar stock?",
+      "options": [
+        "Magnetic particle and eddy current testing",
+        "Liquid penetrant testing",
+        "Oscilloscope and pyrometers",
+        "Pneumatic gages and interferometers"
+      ],
+      "answer": "Magnetic particle and eddy current testing"
+    },
+    {
+      "question": "True testing variability can be obtained in a destructive testing situation under which of the following conditions?",
+      "options": [
+        "Enough samples have been tested",
+        "It cannot be obtained",
+        "All samples are taken closely together",
+        "The same person and instrument are used"
+      ],
+      "answer": "It cannot be obtained"
+    },
+    {
+      "question": "When using a sine bar to measure an angle, the height of the gage block setting is determined by multiplying the sine of the angle by:",
+      "options": [
+        "The width of the gage blocks",
+        "The height of the gage blocks",
+        "The length of the adjacent side",
+        "The length of the sine bar"
+      ],
+      "answer": "The length of the sine bar"
+    },
+    {
+      "question": "When making measurements with test instruments, precision and accuracy mean:",
+      "options": [
+        "The same",
+        "The opposite",
+        "Consistency and correctness, respectively",
+        "Exactness and traceability, respectively"
+      ],
+      "answer": "Consistency and correctness, respectively"
+    },
+    {
+      "question": "What test is performed by applying a uniaxial load to a test bar and gradually increasing the load until the bar or coupon breaks?",
+      "options": [
+        "Tensile",
+        "Fatigue",
+        "Shear",
+        "Compression"
+      ],
+      "answer": "Tensile"
+    },
+    {
+      "question": "Products should be subjected to tests which are designed to:",
+      "options": [
+        "Demonstrate the basic function at a minimum testing cost",
+        "Approximate the conditions to be experienced in the customer's application",
+        "Ensure that specifications are met under laboratory conditions",
+        "Ensure performance under severe environmental conditions"
+      ],
+      "answer": "Ensure that specifications are met under laboratory conditions"
+    },
+    {
+      "question": "When considering whether to use radiographic or ultrasonic inspection to examine critical welds in thick materials, which of the following si the best reason for this selection?",
+      "options": [
+        "Ultrasonic, since greater thicknesses can be penetrated",
+        "Radiography, since ultrasonic is less sensitive to porosity and inclusions",
+        "Both, since the methods complement rather than supplant one another",
+        "Both, since each is equally effective, the chance of missing a serious flaw is reduced"
+      ],
+      "answer": "Both, since the methods complement rather than supplant one another"
+    },
+    {
+      "question": "The most essential value of a surface plate in precision measurement application is which of the following?",
+      "options": [
+        "It provides a flat working surface",
+        "It provides a surface free of minor vibration",
+        "It provides an accurate reference surface",
+        "It provides a chemically resistant work surface"
+      ],
+      "answer": "It provides an accurate reference surface"
+    },
+    {
+      "question": "When specifying the \"10:1 calibration principle\", one is referring to:",
+      "options": [
+        "The ratio of the frequency of calibration of a secondary standard to a primary standard",
+        "The ratio of the frequency of calibration of the instrument to that of the primary standard",
+        "The ratio of the main scale to vernier scale calibration",
+        "The ratio of calibration standard accuracy to calibrated instrument accuracy"
+      ],
+      "answer": "The ratio of calibration standard accuracy to calibrated instrument accuracy"
+    },
+    {
+      "question": "Which of the following is a true statement regarding the use of pneumatic gages?",
+      "options": [
+        "The equipment needs no calibration",
+        "The equipment is both fast and accurate",
+        "The equipment must be cleaned frequently",
+        "Only variable measurements can be made"
+      ],
+      "answer": "The equipment is both fast and accurate"
+    },
+    {
+      "question": "When measuring part angles to great accuracy, the best instrument to select would be which of the following?",
+      "options": [
+        "A sine bar",
+        "An optical flat",
+        "A bevel protractor",
+        "An optical comparator"
+      ],
+      "answer": "A bevel protractor"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "q",
+      "options": [
+        "q",
+        "q",
+        "q",
+        "q"
+      ],
+      "answer": "q"
+    }
+  ]
+}

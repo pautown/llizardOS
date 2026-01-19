@@ -6,7 +6,7 @@ echo "repository=https://mirrors.servercentral.com/voidlinux/current" > "$ROOTFS
 
 xbps-install -r "$ROOTFS_PATH" -Suy xbps
 xbps-install -r "$ROOTFS_PATH" -uy
-xbps-install -r "$ROOTFS_PATH" --repository "$RES_PATH"/xbps -y base-nocturne
+xbps-install -r "$ROOTFS_PATH" --repository "$RES_PATH"/xbps -y base-llizardos
 xbps-remove -r "$ROOTFS_PATH" -Ry base-container-full
 
 "$HELPERS_PATH"/chroot_exec.sh /bin/sh -c "
