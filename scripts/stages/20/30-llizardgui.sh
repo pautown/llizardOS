@@ -16,8 +16,19 @@ mkdir -p "$ROOTFS_PATH"/etc/llizardOS
 # Install plugins to system partition (read-only, not hidden by /var/lib mount)
 cp "$RES_PATH"/llizardgui/bins/plugins/*.so "$ROOTFS_PATH"/usr/lib/llizard/plugins/
 
-# Install data files (flashcards, millionaire questions, etc.)
-cp -r "$RES_PATH"/llizardgui/data/* "$ROOTFS_PATH"/usr/lib/llizard/data/
+# Install fonts to data directory
+cp -r "$RES_PATH"/llizardgui/data/fonts "$ROOTFS_PATH"/usr/lib/llizard/data/
+
+# Install plugin data files to plugins/ directory (where plugins expect them)
+# Plugins search for data relative to working dir at plugins/<plugin>/questions/
+if [ -d "$RES_PATH/llizardgui/data/millionaire" ]; then
+    mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/plugins/millionaire
+    cp -r "$RES_PATH"/llizardgui/data/millionaire/* "$ROOTFS_PATH"/usr/lib/llizard/plugins/millionaire/
+fi
+if [ -d "$RES_PATH/llizardgui/data/flashcards" ]; then
+    mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/plugins/flashcards
+    cp -r "$RES_PATH"/llizardgui/data/flashcards/* "$ROOTFS_PATH"/usr/lib/llizard/plugins/flashcards/
+fi
 
 # Create build-info
 echo "version: ${LLIZARDOS_VERSION:-dev}" > "$ROOTFS_PATH"/etc/llizardOS/build-info
