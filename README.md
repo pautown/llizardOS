@@ -101,7 +101,7 @@ LlizardOS functions within a larger architecture:
 
 ## Credits
 
-This project is heavily inspired by [Nocturne](https://github.com/usenocturne/nocturne) and uses their image build system. Thanks to the Nocturne team, [raspi-alpine/builder](https://gitlab.com/raspi-alpine/builder), [bishopdynamics](https://github.com/bishopdynamics), and [Thing Labs](https://github.com/thinglabsoss/superbird-tool) for their foundational work.
+This project is heavily inspired by [Nocturne](https://github.com/usenocturne/nocturne) and uses a heavily modified version of their original image build system. Thanks to the Nocturne team, [raspi-alpine/builder](https://gitlab.com/raspi-alpine/builder), [bishopdynamics](https://github.com/bishopdynamics), and [Thing Labs](https://github.com/thinglabsoss/superbird-tool) for their foundational work.
 
 ## License
 
