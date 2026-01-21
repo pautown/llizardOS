@@ -26,4 +26,4 @@ fi
 # Give bluetoothd a moment to register the adapter
 sleep 2
 
-exec /usr/bin/janus
+exec /usr/bin/mercury

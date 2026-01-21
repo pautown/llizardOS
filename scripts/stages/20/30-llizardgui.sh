@@ -3,8 +3,8 @@
 # Install llizardGUI binary
 install -m 755 "$RES_PATH"/llizardgui/bins/llizardGUI "$ROOTFS_PATH"/usr/bin/llizardGUI
 
-# Install janus (BLE daemon)
-install -m 755 "$RES_PATH"/llizardgui/bins/janus "$ROOTFS_PATH"/usr/bin/janus
+# Install mercury (BLE daemon)
+install -m 755 "$RES_PATH"/llizardgui/bins/mercury "$ROOTFS_PATH"/usr/bin/mercury
 
 # Create all directories first
 # NOTE: /usr/lib/llizard is on system partition (not hidden by /var mounts)
@@ -42,7 +42,7 @@ chown -R 0:0 "$ROOTFS_PATH"/etc/llizardOS
 
 # Install runit services
 cp -a "$SCRIPTS_PATH"/services/llizardGUI "$ROOTFS_PATH"/etc/sv/
-cp -a "$SCRIPTS_PATH"/services/janus "$ROOTFS_PATH"/etc/sv/
+cp -a "$SCRIPTS_PATH"/services/mercury "$ROOTFS_PATH"/etc/sv/
 
 # Register services to start at boot
-DEFAULT_SERVICES="${DEFAULT_SERVICES} llizardGUI janus"
+DEFAULT_SERVICES="${DEFAULT_SERVICES} llizardGUI mercury"
