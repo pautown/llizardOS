@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What is the only planet in our solar system that rotates clockwise when viewed from above its north pole?",
+      "options": ["Mars", "Venus", "Uranus", "Neptune"],
+      "answer": "Venus"
+    },
+    {
+      "question": "How many hearts does an octopus have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": "Three"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Titanium", "Diamond", "Quartz", "Obsidian"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which ancient wonder of the world was located in Alexandria, Egypt?",
+      "options": ["Hanging Gardens", "Colossus of Rhodes", "Lighthouse of Alexandria", "Temple of Artemis"],
+      "answer": "Lighthouse of Alexandria"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Who invented the first practical telephone?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "What is the only mammal capable of true sustained flight?",
+      "options": ["Flying squirrel", "Sugar glider", "Bat", "Colugo"],
+      "answer": "Bat"
+    },
+    {
+      "question": "At what temperature are Celsius and Fahrenheit equal?",
+      "options": ["-40 degrees", "0 degrees", "-32 degrees", "-273 degrees"],
+      "answer": "-40 degrees"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["186", "206", "256", "306"],
+      "answer": "206"
+    },
+    {
+      "question": "Which country invented paper?",
+      "options": ["Egypt", "Greece", "China", "India"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Pronghorn antelope", "Greyhound"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "What percentage of the human body is water?",
+      "options": ["About 40%", "About 50%", "About 60%", "About 80%"],
+      "answer": "About 60%"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Jonas Salk", "Robert Koch"],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question": "What is the only bird that can fly backwards?",
+      "options": ["Kingfisher", "Hummingbird", "Swift", "Swallow"],
+      "answer": "Hummingbird"
+    },
+    {
+      "question": "How long is one year on Jupiter in Earth years?",
+      "options": ["About 5 years", "About 12 years", "About 29 years", "About 84 years"],
+      "answer": "About 12 years"
+    },
+    {
+      "question": "Which blood type is known as the universal donor?",
+      "options": ["A positive", "B negative", "AB positive", "O negative"],
+      "answer": "O negative"
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "options": ["1905", "1912", "1918", "1923"],
+      "answer": "1912"
+    },
+    {
+      "question": "How many chromosomes do humans have?",
+      "options": ["23", "46", "48", "92"],
+      "answer": "46"
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": ["Great white shark", "Basking shark", "Whale shark", "Tiger shark"],
+      "answer": "Whale shark"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["About 186,000 miles per second", "About 100,000 miles per second", "About 300,000 miles per second", "About 500,000 miles per second"],
+      "answer": "About 186,000 miles per second"
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Elephant", "Galapagos tortoise", "Bowhead whale", "Ocean quahog clam"],
+      "answer": "Ocean quahog clam"
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "options": ["Phalanx", "Stapes", "Patella", "Coccyx"],
+      "answer": "Stapes"
+    },
+    {
+      "question": "In what year was the World Wide Web invented?",
+      "options": ["1983", "1989", "1993", "1995"],
+      "answer": "1989"
+    },
+    {
+      "question": "How many taste buds does the average human tongue have?",
+      "options": ["About 1,000", "About 5,000", "About 10,000", "About 50,000"],
+      "answer": "About 10,000"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which planet has the Great Red Spot?",
+      "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "How many muscles does it take to smile?",
+      "options": ["About 5", "About 12", "About 25", "About 43"],
+      "answer": "About 12"
+    },
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Which insect can lift 50 times its own body weight?",
+      "options": ["Butterfly", "Ant", "Grasshopper", "Bee"],
+      "answer": "Ant"
+    }
+  ]
+}

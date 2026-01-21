@@ -1,0 +1,1004 @@
+{
+  "questions": [
+    {
+      "question": "A thorough review of the works of the major quality gurus would indicate which of the following to be the most effective way to create quality",
+      "options": [
+        "Effective problem solving",
+        "Benchmarking the best competition",
+        "Continuous process improvement",
+        "Modern statistical control techniques"
+      ],
+      "answer": "Continuous process improvement"
+    },
+    {
+      "question": "A method of improving the performance in any functional area of a company, including product or service quality, would be",
+      "options": [
+        "Utilizing FMEA or FMECA techniques",
+        "Applying the benchmarking process",
+        "Instituting an improved design review",
+        "Reading the Baldrige application guidelines"
+      ],
+      "answer": "Applying the benchmarking process"
+    },
+    {
+      "question": "What is the advantage of displaying a RACI matrix?",
+      "options": [
+        "They add considerably more input",
+        "They show team members their stake in a project",
+        "They open stakeholder communication channels",
+        "They always save team member time"
+      ],
+      "answer": "They open stakeholder communication channels"
+    },
+    {
+      "question": "The best way to disseminate information about a new quality program is to",
+      "options": [
+        "Send an e-mail to all employees",
+        "Post the announcement on the company bulletin board",
+        "Send a memo to all department heads",
+        "Use a combination of media"
+      ],
+      "answer": "Use a combination of media"
+    },
+    {
+      "question": "The most important step in vendor certification is to",
+      "options": [
+        "Obtain copies of the vendor's quality menual",
+        "Familiarize the vendor with quality requirements",
+        "Analyze the vendor's first shipment",
+        "Visit the vendor's plant"
+      ],
+      "answer": "Familiarize the vendor with quality requirements"
+    },
+    {
+      "question": "Which of the following concepts is mostly associated with Taiichi Ohono",
+      "options": [
+        "SPC",
+        "TOC",
+        "CTQ",
+        "TPS"
+      ],
+      "answer": "TPS"
+    },
+    {
+      "question": "For employee involvement efforts to succeed, what may be needed",
+      "options": [
+        "Increased employee incentives",
+        "Increased basic training companywide",
+        "Employee understanding of how they can make a difference",
+        "The initiation of pilot projects"
+      ],
+      "answer": "Employee understanding of how they can make a difference"
+    },
+    {
+      "question": "A pre-award evaluation of a supplier's quality system capability should include consideration of",
+      "options": [
+        "The supplier's product quality history",
+        "The supplier's geographical location",
+        "The size of the supplier's quality department",
+        "The supplier's selling price"
+      ],
+      "answer": "The supplier's product quality history"
+    },
+    {
+      "question": "Strategic quality goals must be subdivided. Thus, they are",
+      "options": [
+        "Delegated",
+        "Distributed",
+        "Accountable",
+        "Deployed"
+      ],
+      "answer": "Deployed"
+    },
+    {
+      "question": "In most cases, conflict within an organization",
+      "options": [
+        "Has a negative effect on the employees",
+        "Has a positive effect on creating alternate solutions",
+        "Most often results in a win-win situation",
+        "Promotes horizontal and vertical employee growth skills"
+      ],
+      "answer": "Has a negative effect on the employees"
+    },
+    {
+      "question": "In establishing a quality reporting and information feedback system, primary consideration must be given to",
+      "options": [
+        "The number of inspection stations",
+        "Timely feedback and corrective action",
+        "Historical preservation of data",
+        "A routing copy list"
+      ],
+      "answer": "Timely feedback and corrective action"
+    },
+    {
+      "question": "Who created the initial problem solving framework that would later become DMAIC?",
+      "options": [
+        "Mikel Harry",
+        "Forrest Breyfogle, III",
+        "Robert Galvin",
+        "Michael Geoge"
+      ],
+      "answer": "Mikel Harry"
+    },
+    {
+      "question": "Which of the following techniques is especially beneficial for the generation of ideas when solving quality and productivity problems?",
+      "options": [
+        "Poke - yoke",
+        "Storming",
+        "NGT",
+        "PERT"
+      ],
+      "answer": "NGT"
+    },
+    {
+      "question": "In spite of the quality engineer's best efforts, situations may develop in which his/her decision is overruled. The most appropriate action would be to:",
+      "options": [
+        "Resign the position based on his/her convictions",
+        "Report his/her findings to an outside source such as a regulatory agency",
+        "Document his/her findings, report them internally, and move on to the next task",
+        "Discuss his/her findings with co-workers in order to gain support"
+      ],
+      "answer": "Document his/her findings, report them internally, and move on to the next task"
+    },
+    {
+      "question": "The most desirable method of evaluating a supplier is:",
+      "options": [
+        "A history evaluation",
+        "A survey evaluation",
+        "A questionnaire",
+        "Discussion with the quality manager"
+      ],
+      "answer": "A history evaluation"
+    },
+    {
+      "question": "One of Dr. Deming's 14 points for management states \"Cease dependence upon inspection as a way to achieve quality.\" The underlying tenet of this statement is which of the following?",
+      "options": [
+        "Many American companies employ too many inspectors",
+        "Quality should be built into the product, not inspected in",
+        "Workers should perform their own inspection and not rely on others ",
+        "Most manual inspection will miss 10%-20% of defects under typical conditions"
+      ],
+      "answer": "Quality should be built into the product, not inspected in"
+    },
+    {
+      "question": "In consumer products, the complaint rate is most directly a measure of:",
+      "options": [
+        "Product quality",
+        "Customer satisfaction",
+        "Market value",
+        "Rejection rate"
+      ],
+      "answer": "Customer satisfaction"
+    },
+    {
+      "question": "Quality data, which are regularly obtained but never used, should be",
+      "options": [
+        "Analyzed periodically by a statistician to glean as much information as possible",
+        "Discontinued to save time and money",
+        "Stored until such time as the need arises",
+        "Processed into summary reports and made available for interested parties"
+      ],
+      "answer": "Discontinued to save time and money"
+    },
+    {
+      "question": "Which of the following would be positive step for an organization intent on continuous improvement?",
+      "options": [
+        "Determine the total organizational impact of changes",
+        "Decrease skill based training expenditures",
+        "Discontinue detailed record keeping of improvement projects",
+        "Avoid expensive improvement projects"
+      ],
+      "answer": "Determine the total organizational impact of changes"
+    },
+    {
+      "question": "Often upper management receives organizational information that is distorted. Which of the following actions can be effective in minimizing this problem?",
+      "options": [
+        "Practice management by edict",
+        "Establish a closed door policy",
+        "Stop killing the messenger",
+        "Create organizational silos"
+      ],
+      "answer": "Stop killing the messenger"
+    },
+    {
+      "question": "One would say that, from an overall perspective, the activities of a company are tied together by:",
+      "options": [
+        "Customer",
+        "Stockholders",
+        "Suppliers",
+        "Process mangagement"
+      ],
+      "answer": "Process mangagement"
+    },
+    {
+      "question": "As one works through a conflict situation with a customer:",
+      "options": [
+        "There is no conflict, the customer is always right.",
+        "The process should not embarrass either party",
+        "The company should maintain its position",
+        "All steps and procedures are strictly followed"
+      ],
+      "answer": "The process should not embarrass either party"
+    },
+    {
+      "question": "Which American figure is seen as the earliest advocate of waste reduction?",
+      "options": [
+        "Henry Ford",
+        "Frederick W. Taylor",
+        "W. Edwards Deming",
+        "James Womack"
+      ],
+      "answer": "Henry Ford"
+    },
+    {
+      "question": "What is business continuity?",
+      "options": [
+        "To recover and move on after a disruption",
+        "To change rapidly after a disruption",
+        "To expect business disruptions",
+        "To adapt to changing business conditions"
+      ],
+      "answer": "To recover and move on after a disruption"
+    },
+    {
+      "question": "A key characteristic of a business partnership is:",
+      "options": [
+        "Sharing of critical business information",
+        "Limited access to human resources",
+        "Special company audits are performed",
+        "Only plant managers agree on agendas"
+      ],
+      "answer": "Sharing of critical business information"
+    },
+    {
+      "question": "The effective supervisor:",
+      "options": [
+        "Sees his/her role primarily as one of making people happy",
+        "Sometimes does a job himself because he/she can do it better than others.",
+        "Has objectives of growth and increased profit by working through other people.",
+        "Assumes the decision making function, but leaves personnel development to others."
+      ],
+      "answer": "Has objectives of growth and increased profit by working through other people."
+    },
+    {
+      "question": "Complaint indices should:",
+      "options": [
+        "Recognize the degree of dissatisfaction as viewed by the customer",
+        "Provide a direct input to corrective action",
+        "Not necessarily be based on field complaints, service calls, or value of claims",
+        "Ignore life cycle costs"
+      ],
+      "answer": "Recognize the degree of dissatisfaction as viewed by the customer"
+    },
+    {
+      "question": "Which of the following items describe well functioning improvement teams?",
+      "options": [
+        "Members listen to what others say in the meeting",
+        "Members often act without interdependency",
+        "Members often have covert agendas",
+        "Members set unrealistic goals"
+      ],
+      "answer": "Members listen to what others say in the meeting"
+    },
+    {
+      "question": "The \"next process is your customer\" refers to:",
+      "options": [
+        "\"Do it right\" for the next operation",
+        "Desire for better cooperation among departments ",
+        "Providing \"zero defects\" for the next process",
+        "The importance of process efficiency."
+      ],
+      "answer": "Desire for better cooperation among departments "
+    },
+    {
+      "question": "In the preparation of a project, efforts should be made to identify and involve various parties affected by the planned changes. These other parties are known as:",
+      "options": [
+        "Process owners",
+        "Champions",
+        "Team leaders",
+        "Stakeholders"
+      ],
+      "answer": "Stakeholders"
+    },
+    {
+      "question": "A disadvantage of using Gantt charts includes which of the following:",
+      "options": [
+        "They are more complex than CPM charts",
+        "They do not show interdependencies of activities",
+        "Most project managers dislike Gantt charts",
+        "Slack times cannot be indicated"
+      ],
+      "answer": "They do not show interdependencies of activities"
+    },
+    {
+      "question": "No one likes complaints, but they can be good for a company -- Why?",
+      "options": [
+        "They state the customer's needs",
+        "They provide a second chance to improve",
+        "They eliminate the need for inspection",
+        "They can be ignored"
+      ],
+      "answer": "They provide a second chance to improve"
+    },
+    {
+      "question": "Acceptable corporate quality goals are normally derived from:",
+      "options": [
+        "The quality department",
+        "Identified competitive benchmarks",
+        "Top management objectives",
+        "The quality council"
+      ],
+      "answer": "Top management objectives"
+    },
+    {
+      "question": "The concept most closely associated with lean production is:",
+      "options": [
+        "Better quality",
+        "Faster production",
+        "Flexible production",
+        "Elimination of waste"
+      ],
+      "answer": "Flexible production"
+    },
+    {
+      "question": "How would an organization reduce their vulnerability to the loss of a critical material supplier",
+      "options": [
+        "Have a dual source supplier available",
+        "Have an abundant safety stock on hand",
+        "Rapidly look for a substitute material",
+        "Develop a materials allocation list"
+      ],
+      "answer": "Have a dual source supplier available"
+    },
+    {
+      "question": "The management approach most supportive of personnel effectiveness, is which of the following?",
+      "options": [
+        "Incorporate as many of the current motivational techniques as possible",
+        "Enforce the philosophy that people are the only asset which can be developed",
+        "Ensure that company objectives take precedent over individual objectives",
+        "Make sure that employees leave work each day feeling good about themselves"
+      ],
+      "answer": "Enforce the philosophy that people are the only asset which can be developed"
+    },
+    {
+      "question": "As a leader of a quality improvement project, which of the following is the most important consideration?",
+      "options": [
+        "Build team commitment and confidence",
+        "Minimize the impact of opinions outside the group",
+        "Reduce the opportunities for discussion",
+        "Encourage team members to defend their positions. "
+      ],
+      "answer": "Build team commitment and confidence"
+    },
+    {
+      "question": "Which of the following quality leaders is associated with the definition of quality as \"fitness for use?\"",
+      "options": [
+        "Joseph M. Juran",
+        "Philip B. Crosby",
+        "W. Edwards Deming",
+        "Armand V. Feigenbaum"
+      ],
+      "answer": "Joseph M. Juran"
+    },
+    {
+      "question": "Which luminary is generally recognized as being the creator of the control chart?",
+      "options": [
+        "Deming",
+        "Shewhart",
+        "Harry",
+        "Ishikawa"
+      ],
+      "answer": "Ishikawa"
+    },
+    {
+      "question": "The Toyota - Aisin Seiki incident was a great example of:",
+      "options": [
+        "Business continuity",
+        "Business resiliency",
+        "Contingency planning",
+        "Project management"
+      ],
+      "answer": "Business resiliency"
+    },
+    {
+      "question": "The downward flow of communications is used for information transfer. By the time it gets to the lowest level, it has been affected by the process of:",
+      "options": [
+        "Spanning",
+        "Projecting",
+        "Filtering",
+        "Leveling"
+      ],
+      "answer": "Filtering"
+    },
+    {
+      "question": "Technical service to suppliers is:",
+      "options": [
+        "A great public relations gesture when personnel are available",
+        "A greater benefit to the company than it is to the supplier",
+        "A support feature for which suppliers are normally charged",
+        "An optional luxury which is not a company responsibility"
+      ],
+      "answer": "A greater benefit to the company than it is to the supplier"
+    },
+    {
+      "question": "In planning for quality, an important consideration at the start is",
+      "options": [
+        "The relation of the total cost of quality to the net sales",
+        "The establishment of a company quality policy or objective",
+        "Deciding precisely how much money should be spent quality",
+        "The selling of the quality program to top management"
+      ],
+      "answer": "The establishment of a company quality policy or objective"
+    },
+    {
+      "question": "An essential technique in making training programs effective is to:",
+      "options": [
+        "Have training classes which teach the required skills and knowledge required",
+        "Provide meaningful measures of employee performance",
+        "Post results of performance before and after the training program",
+        "Set individual goals instead of group goals"
+      ],
+      "answer": "Provide meaningful measures of employee performance"
+    },
+    {
+      "question": "Quality policies are principally issued by management to:",
+      "options": [
+        "State the position of the company on quality",
+        "Ensure people are reminded about quality",
+        "Provide detailed instructions in regard to quality",
+        "Ensure customer satisfaction"
+      ],
+      "answer": "State the position of the company on quality"
+    },
+    {
+      "question": "Two generic quality systems audits are those inside the company and:",
+      "options": [
+        "Process audits",
+        "Assessment audits",
+        "External audits",
+        "Product audits"
+      ],
+      "answer": "External audits"
+    },
+    {
+      "question": "If one were to summarize the results of a training needs analysis into a few words, what would be the best selection from the choices presented below? ",
+      "options": [
+        "Providing incentives and meaningful work",
+        "Giving cognitive support",
+        "Identifying performance gaps",
+        "Developing skills and knowledge"
+      ],
+      "answer": "Identifying performance gaps"
+    },
+    {
+      "question": "Which of the following is the best definition of configuration management?",
+      "options": [
+        "The collection of all product related information and activities",
+        "A documentation system",
+        "A record keeping system for order change",
+        "A product production management plan"
+      ],
+      "answer": "The collection of all product related information and activities"
+    },
+    {
+      "question": "The percentages of total quality cost are distributed as follows: prevention 12%; appraisal 28%; internal failure 40%; and external failure 20%",
+      "options": [
+        "More money should be invested in prevention",
+        "Expenditures for failure are excessive",
+        "The amount spent for appraisal seems about right",
+        "Nothing"
+      ],
+      "answer": "The amount spent for appraisal seems about right"
+    },
+    {
+      "question": "Generic standards/guidelines are designed to:",
+      "options": [
+        "Provide standard criteria and requirements for an activity",
+        "Provide guidance for specific activities",
+        "Be used for ISO 9000 based audits",
+        "Establish the time frame for issuing the audit report"
+      ],
+      "answer": "Provide standard criteria and requirements for an activity"
+    },
+    {
+      "question": "When an individual receives high marks on a set of questions relating to the training he/she received, it indicates that:",
+      "options": [
+        "The student understood the training material",
+        "The test questions were fair",
+        "Most of the questions were answered correctly",
+        "The student can apply the training information"
+      ],
+      "answer": "Most of the questions were answered correctly"
+    },
+    {
+      "question": "An organization's core processes:",
+      "options": [
+        "Are activities which fulfill the organizational goals",
+        "Are the original activities on which the organization was founded",
+        "Are unique to a given organization",
+        "Create the greatest value-added benefit"
+      ],
+      "answer": "Are activities which fulfill the organizational goals"
+    },
+    {
+      "question": "When an auditor or group independent of the company, the company's customer, suppliers, or any party involved with the company conducts an audit, that audit is called which of the following?",
+      "options": [
+        "An internal audit",
+        "An external audit",
+        "A system audit",
+        "A third-party audit"
+      ],
+      "answer": "A third-party audit"
+    },
+    {
+      "question": "The short-term effect of a dramatic increase in prevention costs would be:",
+      "options": [
+        "An increase in total quality costs",
+        "A decrease in appraisal costs",
+        "An increase in external failure costs",
+        "A decrease in internal failure costs"
+      ],
+      "answer": "An increase in total quality costs"
+    },
+    {
+      "question": "Individual training needs are most effectively developed when:",
+      "options": [
+        "They encompass the difference between the desired and the current abilities",
+        "They concentrate on middle management instructions to ensure their cooperation later",
+        "They are combined with incoming employee screening and testing",
+        "They focus on what an individual must achieve for advancement"
+      ],
+      "answer": "They encompass the difference between the desired and the current abilities"
+    },
+    {
+      "question": "The Baldrige National Quality Award application is divided into how many key categories of criteria?",
+      "options": [
+        "7",
+        "19",
+        "20",
+        "24"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "The advantage of a written procedure is:",
+      "options": [
+        "it provides flexibility in dealing with problems",
+        "It handles unusual conditions much better",
+        "It is a perpetual coordination device",
+        "It minimizes coordination activities with other departments"
+      ],
+      "answer": "It is a perpetual coordination device"
+    },
+    {
+      "question": "If prevention costs are increased to pay for engineering work in quality control, and this results in a reduction in the number of product defects, this yields a reduction in:",
+      "options": [
+        "Appraisal costs",
+        "Operating costs",
+        "Quality costs",
+        "Failure costs"
+      ],
+      "answer": "Failure costs"
+    },
+    {
+      "question": "What is generally the weakest link in an quality audit program",
+      "options": [
+        "Lack of adequate audit chekclists",
+        "Improper scheduling of audits",
+        "Audit report timing",
+        "Follow-up on corrective action implementation"
+      ],
+      "answer": "Follow-up on corrective action implementation"
+    },
+    {
+      "question": "The follow-up on the need for corrective action, identified in an audit report, is most clearly the responsibility of which of the following?",
+      "options": [
+        "The client's upper management",
+        "The auditee's upper management",
+        "The lead auditor",
+        "The operating area in which finding was made"
+      ],
+      "answer": "The auditee's upper management"
+    },
+    {
+      "question": "Quality engineering is best characterized as:",
+      "options": [
+        "A testing and inspecting function",
+        "A quality measuring and reporting function",
+        "A quality planning and analysis function",
+        "A staff assistance function"
+      ],
+      "answer": "A quality planning and analysis function"
+    },
+    {
+      "question": "Analysis of quality costs consist of:",
+      "options": [
+        "Reviewing manpower utilization against a standard",
+        "Establishing management tools to determine net worth",
+        "Examining each cost element in relation to other elements and the total",
+        "Providing an accounting mechanism to spread costs over serviced areas"
+      ],
+      "answer": "Examining each cost element in relation to other elements and the total"
+    },
+    {
+      "question": "Quality training programs should be characterized by:",
+      "options": [
+        "An emphasis on real company quality problems",
+        "A concentration on the terminologies and definitions in the quality profession",
+        "Strict compliance with written quality assurance procedures",
+        "Standardization of quality procedure requirements"
+      ],
+      "answer": "An emphasis on real company quality problems"
+    },
+    {
+      "question": "A checklist will often permit the audit team to achieve which of the following?",
+      "options": [
+        "A flexible audit format",
+        "The identification of noncritical processes",
+        "The effective use of time",
+        "The determination of corrective action steps"
+      ],
+      "answer": "The effective use of time"
+    },
+    {
+      "question": "In order to obtain the most verifiable objective evidence during an audit, which of the following auditor requests is the best approach",
+      "options": [
+        "How often do you receive or transmit product information?",
+        "To what extent is product information important to your job duties?",
+        "Please show me examples of product information and describe how they affect your job duties",
+        "Is product information important in the performance of your quality related job duties?"
+      ],
+      "answer": "Please show me examples of product information and describe how they affect your job duties"
+    },
+    {
+      "question": "Which of the following is the best method for developing materials for a training program on the gaps in performance?",
+      "options": [
+        "Secure a workshop trainer",
+        "Review a record of activities",
+        "Set up a one shot case study",
+        "Allocate employees for training"
+      ],
+      "answer": "Review a record of activities"
+    },
+    {
+      "question": "Considerable money is wasted by organizations in their training efforts. It seems that massive training of employees is not worth the time. What could be done to resolve this problem?",
+      "options": [
+        "Encourage employees to use their new skills",
+        "Provide an opportunity to use the new skills, shortly after training",
+        "Reward employees for use of their new skills",
+        "Assign managers to monitor the use of the new skills"
+      ],
+      "answer": "Provide an opportunity to use the new skills, shortly after training"
+    },
+    {
+      "question": "What is the key ranking difference between the Deming philosophy and the BNQA criteria?",
+      "options": [
+        "Deming prescribes \"all or nothing\" propositions, but BNQA ranks categories with different weights.",
+        "The BNQA ranks \"business results,\" but Deming does not consider this item.",
+        "The BNQA has seven categories compared to Deming's 14 points",
+        "There is no recognized rating system for the BNQAs"
+      ],
+      "answer": "Deming prescribes \"all or nothing\" propositions, but BNQA ranks categories with different weights."
+    },
+    {
+      "question": "The purpose of a quality manual is to:",
+      "options": [
+        "Use it as a basis for every quality decision",
+        "Standardize the quality methods and decisions of a company",
+        "Provide a written basis for rejection of lots",
+        "Make it possible to handle every situation in exactly the same manner"
+      ],
+      "answer": "Standardize the quality methods and decisions of a company"
+    },
+    {
+      "question": "In selecting a base for measuring quality costs, which of the following is the most important consideration?",
+      "options": [
+        "Does it ignore increases and decreases in production schedules?",
+        "Is it affected by indirect labor costs?",
+        "Is it affected by seasonal product sales?",
+        "Does it avoid material price fluctuations?"
+      ],
+      "answer": "Is it affected by seasonal product sales?"
+    },
+    {
+      "question": "Which ISO document would be an appropriate requirement on a purchase order or contract?",
+      "options": [
+        "ISO 9000",
+        "ISO 19011",
+        "ISO 9004",
+        "ISO 9001"
+      ],
+      "answer": "ISO 9001"
+    },
+    {
+      "question": "Which of the following is the most reliable source of audit evidence?",
+      "options": [
+        "Physical observation of activities by at least two independent sources",
+        "Physical examination of documentation and observation of corresponding activities",
+        "A combination of written and oral responses from auditee personnel to checklist questions",
+        "Examination of the key documents that are identified in the standard or contract being audited"
+      ],
+      "answer": "Physical examination of documentation and observation of corresponding activities"
+    },
+    {
+      "question": "A customer based evaluation of a relatively small sample of product is characteristic of:",
+      "options": [
+        "A process audit ",
+        "Detailed inspection",
+        "An assessment audit",
+        "A product audit"
+      ],
+      "answer": "A product audit"
+    },
+    {
+      "question": "The vehicle to present audit observations to the auditee's senior management, before writing the audit report, is called:",
+      "options": [
+        "The audit report meeting",
+        "The closing meeting ",
+        "The opening meeting",
+        "The daily audit review meeting"
+      ],
+      "answer": "The closing meeting "
+    },
+    {
+      "question": "An improvement in quality costs is most clearly indicated when",
+      "options": [
+        "Appraisal and failure costs drop",
+        "Prevention costs increase",
+        "Total quality costs fall below 15% of total sales",
+        "Management objectives are met"
+      ],
+      "answer": "Management objectives are met"
+    },
+    {
+      "question": "The common functions of a quality organization includes a branch which may be defined as: \"A planned and systematic activity which provides adequate confidence that a product or service will conform to requirements.\" This function can be classified as that of:",
+      "options": [
+        "Quality control",
+        "Quality assurance",
+        "Inspection",
+        "Reliability"
+      ],
+      "answer": "Quality assurance"
+    },
+    {
+      "question": "The primary purpose of audit working papers is to provide:",
+      "options": [
+        "Evidence of the analsis of internal control",
+        "Support for the audit report",
+        "A basis for ecaluating audit personnel",
+        "A guide for subsequent audits of the same areas."
+      ],
+      "answer": "Support for the audit report"
+    },
+    {
+      "question": "In order to evaluate the internal effectiveness of the customer order planning function, which of the following audits is most appropriate?",
+      "options": [
+        "Product audit",
+        "Process audit",
+        "Management audit",
+        "System audit"
+      ],
+      "answer": "Process audit"
+    },
+    {
+      "question": "Which of the following elements are basic parts of configuration management?",
+      "options": [
+        "Control, accounting, and audits",
+        "Audits, manuals, and procedures",
+        "Accounting, procedures, and work instructions",
+        "Design, documentation, and procedures"
+      ],
+      "answer": "Control, accounting, and audits"
+    },
+    {
+      "question": "If shop floor employees are exposed to new assembly techniques, the best instructional proficiency evaluation would be:",
+      "options": [
+        "Observation of performance results",
+        "Testing of assembled products",
+        "Oral and written testing of the operators",
+        "Training evaluation by the instructed employees"
+      ],
+      "answer": "Observation of performance results"
+    },
+    {
+      "question": "Nonconformances and other deficiencies:",
+      "options": [
+        "Must always be avoided",
+        "Are indicative that a quality system design change is needed",
+        "Require reprimands for the person causing the problem",
+        " Provide opportunities for improvement"
+      ],
+      "answer": " Provide opportunities for improvement"
+    },
+    {
+      "question": "An organizational function that determines the probability that a product will perform its intended function for a specified time is called?",
+      "options": [
+        "Procurement",
+        "Quality assurance",
+        "In-depth auditing",
+        "Reliability"
+      ],
+      "answer": "Reliability"
+    },
+    {
+      "question": "The documentation of the approved configuration identification and the status of any changes is called:",
+      "options": [
+        "Configuration Identification",
+        "Configuration Control",
+        "Configuration Accounting",
+        "Configuration Auditing"
+      ],
+      "answer": "Configuration Accounting"
+    },
+    {
+      "question": "Typically, as a result of an audit, who determines the need for follow-up action?",
+      "options": [
+        "The auditor",
+        "The audit team leader",
+        "The client",
+        "The auditee"
+      ],
+      "answer": "The client"
+    },
+    {
+      "question": "A set of requirements to be satisfied by a product or service is considered to be a/an:",
+      "options": [
+        "Evaluaion",
+        "Specification",
+        "Confirmation",
+        "Finding"
+      ],
+      "answer": "Specification"
+    },
+    {
+      "question": "What are the maximum number of documents required by ISO 9001:2015",
+      "options": [
+        "10",
+        "12",
+        "22",
+        "47"
+      ],
+      "answer": "47"
+    },
+    {
+      "question": "Which of the following statements is a true description of DFX",
+      "options": [
+        "DFS is a subset of DFX",
+        "The selection of DFX tools is relatively simple",
+        "DFX is a targeted development approach",
+        "DFX was first created in the 1990s"
+      ],
+      "answer": "DFX is a targeted development approach"
+    },
+    {
+      "question": "A technique whereby various product features are graded as to relative importance is called",
+      "options": [
+        "Classification of defects",
+        "Quality engineering",
+        "Classification of characteristics",
+        "Feature grading"
+      ],
+      "answer": "Classification of characteristics"
+    },
+    {
+      "question": "The factors to consider in robust product design include which of the following?",
+      "options": [
+        "Tolerance, concept, and parameter",
+        "Noise, signal, and control",
+        "Signal, control, and tolerance",
+        "Control, concept, and noise"
+      ],
+      "answer": "Noise, signal, and control"
+    },
+    {
+      "question": "Which of the following activities normally occurs after the final completion of a product design?",
+      "options": [
+        "Verification",
+        "Validation",
+        "Apportionment",
+        "Prototype conversion"
+      ],
+      "answer": "Validation"
+    },
+    {
+      "question": "The first and most important step, in establishing a good product design, is:",
+      "options": [
+        "Determining customer requirements",
+        "Determining manufacturing process capabilities",
+        "Evaluating vendor quality systems",
+        "Ensuring quality participation in design review"
+      ],
+      "answer": "Determining customer requirements"
+    },
+    {
+      "question": "For complex electronic systems, the major contributor to repair time is generally:",
+      "options": [
+        "Diagnosis",
+        "Disassembly/reassembly",
+        "Remove/replace",
+        "Final checkout"
+      ],
+      "answer": "Diagnosis"
+    },
+    {
+      "question": "The QFD process can be described as a:",
+      "options": [
+        "Financial metrics approach",
+        "Customer competitive assessment",
+        "Customer driven process",
+        "Technical results driven process"
+      ],
+      "answer": "Customer driven process"
+    },
+    {
+      "question": "What is the reliability of a system at 850 hours, if the average usage on the system was 400 hours for 1,650, items and the total number of failures was 145? Assume an exponential distribution.",
+      "options": [
+        "0%",
+        "36%",
+        "18%",
+        "83%"
+      ],
+      "answer": "83%"
+    },
+    {
+      "question": "Protection against design error is most important because of which of the following?",
+      "options": [
+        "Change control is costly",
+        "It will often go through the entire process undetected",
+        "Design errors have compounding, costly effects throughout the system",
+        "Manufacturing departments can't make a quality product if the design is wrong."
+      ],
+      "answer": "Design errors have compounding, costly effects throughout the system"
+    },
+    {
+      "question": "Having designed a test fixture to performance requirements, the design should be carefully evaluated by the quality engineer to ensure that has included:",
+      "options": [
+        "Low cost components",
+        "Computer input and printout capability",
+        "Human motor coordination factors",
+        "Mass production methods"
+      ],
+      "answer": "Human motor coordination factors"
+    },
+    {
+      "question": "Maintenance reduces the probability of failure when:",
+      "options": [
+        "The hazard rate is constant",
+        "The hazard rate is decreasing",
+        "The hazard rate is increasing",
+        "The hazard rate is unknown"
+      ],
+      "answer": "The hazard rate is increasing"
+    },
+    {
+      "question": "The drawing dimensions were specified in terms of a normal value +/- 3 standard deviations. This is an indication that:",
+      "options": [
+        "Approximately 99.73% of the typical process output would be approved",
+        "A meaningless variation specification has been indicated",
+        "Specification tolerances are established after the production tolerances",
+        "The natural manufacturing process spread will be acceptable"
+      ],
+      "answer": "A meaningless variation specification has been indicated"
+    },
+    {
+      "question": "What is the primary purpose of a failure mode, effect, and criticality analysis (FMECA)?",
+      "options": [
+        "To learn as much about the item as possible after qualification test",
+        "To determine the way an item will most likely fail and to help obtain design safeguards",
+        "To determine, by extensive analysis, the reliability of an item",
+        "To determine the cause of a failure, by dissecting the item, to help obtain corrective action"
+      ],
+      "answer": "To determine the way an item will most likely fail and to help obtain design safeguards"
+    },
+    {
+      "question": "In the design of a product, design for X (DFX) can be described as:",
+      "options": [
+        "Design for anything",
+        "A very effective method for manufacturability of parts",
+        "A new technique encompassing six sigma",
+        "A knowledge-based design approach"
+      ],
+      "answer": "A knowledge-based design approach"
+    }
+  ]
+}

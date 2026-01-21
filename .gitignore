@@ -4,8 +4,5 @@
 /nocturned
 /nocturned.sha256
 
-# Build artifacts
-context and files/image-build-output/
-
 # Windows tracking files
 *.Zone.Identifier
