@@ -1,13 +1,7 @@
 #!/bin/sh
 
 # Path to pre-built ARM binaries
-BUILD_OUTPUT_PATH="${SAVED_PWD}/context and files/image-build-output"
-
-# Install llizardGUI binary (llizardgui-host -> llizardGUI)
-install -m 755 "$BUILD_OUTPUT_PATH"/bins/llizardgui-host "$ROOTFS_PATH"/usr/bin/llizardGUI
-
-# Install mercury (mediadash-client -> mercury)
-install -m 755 "$BUILD_OUTPUT_PATH"/bins/mediadash-client "$ROOTFS_PATH"/usr/bin/mercury
+BINS_PATH="${RES_PATH}/llizardgui/bins"
 
 # Create all directories first
 # NOTE: /usr/lib/llizard is on system partition (not hidden by /var mounts)
@@ -16,21 +10,41 @@ mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/data
 mkdir -p "$ROOTFS_PATH"/var/llizard
 mkdir -p "$ROOTFS_PATH"/etc/llizardOS
 
-# Install plugins to system partition (read-only, not hidden by /var/lib mount)
-cp "$BUILD_OUTPUT_PATH"/bins/plugins/*.so "$ROOTFS_PATH"/usr/lib/llizard/plugins/
+# Install all executable binaries from bins/ (excluding directories)
+# This automatically picks up llizardGUI, mercury, and any future binaries
+for bin in "$BINS_PATH"/*; do
+    if [ -f "$bin" ]; then
+        binname=$(basename "$bin")
+        color_echo "    Installing binary: $binname" -Cyan
+        install -m 755 "$bin" "$ROOTFS_PATH"/usr/bin/"$binname"
+    fi
+done
 
-# Install fonts to data directory (still in resources/llizardgui)
+# Install all plugins from the plugins directory
+if [ -d "$BINS_PATH/plugins" ]; then
+    for plugin in "$BINS_PATH"/plugins/*.so; do
+        if [ -f "$plugin" ]; then
+            pluginname=$(basename "$plugin")
+            color_echo "    Installing plugin: $pluginname" -Cyan
+            install -m 755 "$plugin" "$ROOTFS_PATH"/usr/lib/llizard/plugins/"$pluginname"
+        fi
+    done
+fi
+
+# Install fonts to data directory
 cp -r "$RES_PATH"/llizardgui/data/fonts "$ROOTFS_PATH"/usr/lib/llizard/data/
 
-# Install plugin data files to plugins/ directory (where plugins expect them)
-# Plugins search for data relative to working dir at plugins/<plugin>/questions/
-if [ -d "$BUILD_OUTPUT_PATH/data/millionaire" ]; then
-    mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/plugins/millionaire
-    cp -r "$BUILD_OUTPUT_PATH"/data/millionaire/* "$ROOTFS_PATH"/usr/lib/llizard/plugins/millionaire/
-fi
-if [ -d "$BUILD_OUTPUT_PATH/data/flashcards" ]; then
-    mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/plugins/flashcards
-    cp -r "$BUILD_OUTPUT_PATH"/data/flashcards/* "$ROOTFS_PATH"/usr/lib/llizard/plugins/flashcards/
+# Install plugin data directories (for plugins that need extra data files)
+# Automatically finds and installs any data/<pluginname> directories
+if [ -d "$RES_PATH/llizardgui/data" ]; then
+    for datadir in "$RES_PATH"/llizardgui/data/*; do
+        if [ -d "$datadir" ] && [ "$(basename "$datadir")" != "fonts" ]; then
+            dirname=$(basename "$datadir")
+            color_echo "    Installing plugin data: $dirname" -Cyan
+            mkdir -p "$ROOTFS_PATH"/usr/lib/llizard/plugins/"$dirname"
+            cp -r "$datadir"/* "$ROOTFS_PATH"/usr/lib/llizard/plugins/"$dirname"/
+        fi
+    done
 fi
 
 # Create build-info

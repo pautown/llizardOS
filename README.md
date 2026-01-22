@@ -8,6 +8,7 @@ Custom firmware for the Spotify Car Thing that transforms discontinued hardware 
 - [Architecture](#architecture)
 - [Build Prerequisites](#build-prerequisites)
 - [Build Process](#build-process)
+- [Pre-Build Setup: Binaries and Data](#pre-build-setup-binaries-and-data)
 - [Build Stages](#build-stages)
 - [Runtime Services](#runtime-services)
 - [Flashing](#flashing)
@@ -138,6 +139,63 @@ Environment variables in `build.sh`:
 | `DEFAULT_ROOT_PASSWORD` | `llizardos` | Root SSH password |
 | `SIZE_ROOT_FS` | `516M` | Root partition size |
 | `STAGES` | `00 10 20 30 40` | Build stages to run |
+
+## Pre-Build Setup: Binaries and Data
+
+Before building the image, you must place the pre-compiled ARM binaries and data files in the correct locations. The build script automatically discovers and installs all files from these directories.
+
+### Directory Structure
+
+```
+resources/llizardgui/
+├── bins/                    # ARM binaries (auto-installed to /usr/bin/)
+│   ├── llizardGUI           # Main GUI application
+│   ├── mercury              # BLE media bridge daemon
+│   └── plugins/             # Plugin shared objects (auto-installed to /usr/lib/llizard/plugins/)
+│       ├── album_art_viewer.so
+│       ├── clock.so
+│       ├── nowplaying.so
+│       └── ... (all .so files)
+└── data/                    # Data files for plugins and GUI
+    ├── fonts/               # TTF fonts (installed to /usr/lib/llizard/data/fonts/)
+    ├── flashcards/          # Plugin data (installed to /usr/lib/llizard/plugins/flashcards/)
+    └── millionaire/         # Plugin data (installed to /usr/lib/llizard/plugins/millionaire/)
+```
+
+### How It Works
+
+The build script (`scripts/stages/20/30-llizardgui.sh`) programmatically discovers and installs:
+
+1. **Main Binaries**: Any file in `resources/llizardgui/bins/` (excluding subdirectories) is installed to `/usr/bin/` with executable permissions.
+
+2. **Plugins**: All `.so` files in `resources/llizardgui/bins/plugins/` are installed to `/usr/lib/llizard/plugins/`.
+
+3. **Plugin Data**: Any subdirectory in `resources/llizardgui/data/` (except `fonts/`) is installed to `/usr/lib/llizard/plugins/<dirname>/`. This is where plugins look for their data files.
+
+4. **Fonts**: The `fonts/` directory is installed to `/usr/lib/llizard/data/fonts/`.
+
+### Adding New Components
+
+To add new binaries or plugins, simply place them in the appropriate directory:
+
+| Component Type | Location | Installed To |
+|----------------|----------|--------------|
+| Main binary | `resources/llizardgui/bins/<name>` | `/usr/bin/<name>` |
+| Plugin | `resources/llizardgui/bins/plugins/<name>.so` | `/usr/lib/llizard/plugins/<name>.so` |
+| Plugin data | `resources/llizardgui/data/<pluginname>/` | `/usr/lib/llizard/plugins/<pluginname>/` |
+| Fonts | `resources/llizardgui/data/fonts/*.ttf` | `/usr/lib/llizard/data/fonts/` |
+
+No script modifications are required - the build system automatically picks up new files.
+
+### Using copy_bins_before_commit_push.sh
+
+If you're building binaries from source, use the provided script to copy them to the correct locations:
+
+```bash
+./copy_bins_before_commit_push.sh
+```
+
+This copies binaries from the expected build output directories (e.g., `build-armv7-drm/`, `golang_ble_client/bin/`) to `resources/llizardgui/bins/`.
 
 ## Build Stages
 
