@@ -293,6 +293,7 @@ sv status redis
 ```
 llizardOS/
 ├── build.sh                    # Main build script
+├── copy_bins_before_commit_push.sh  # Update binaries before commit
 ├── Dockerfile                  # Docker build environment
 ├── docker-entrypoint.sh        # Docker entry point
 ├── Justfile                    # Build commands
@@ -344,9 +345,29 @@ llizardOS/
 
 ## Customization
 
-### Adding Pre-built Binaries
+### Updating Binaries Before Commit/Push
 
-Place ARM binaries in `resources/llizardgui/bins/`:
+Use the provided script to copy the latest ARM binaries from your build:
+
+```bash
+# From the llizardOS directory
+./copy_bins_before_commit_push.sh
+
+# Then commit and push
+git add resources/llizardgui/
+git commit -m "Update binaries and plugin data"
+git push
+```
+
+This script automatically copies:
+- **llizardGUI** - Main host application from `build-armv7-drm/llizardgui-host`
+- **mercury** - BLE service from `golang_ble_client/bin/mediadash-client`
+- **plugins/*.so** - All plugin binaries from `build-armv7-drm/*.so`
+- **Plugin data** - Question banks from `salamanders/` (flashcards, millionaire)
+
+### Adding Pre-built Binaries (Manual)
+
+If you prefer manual copying, place ARM binaries in `resources/llizardgui/bins/`:
 
 ```bash
 # Build llizardgui-host for CarThing
