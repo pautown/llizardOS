@@ -47,6 +47,13 @@ if [ -d "$RES_PATH/llizardgui/data" ]; then
     done
 fi
 
+# Install default menu layout configuration
+CONFIG_PATH="${RES_PATH}/llizardgui/config"
+if [ -d "$CONFIG_PATH" ]; then
+    color_echo "    Installing default llizard config" -Cyan
+    cp "$CONFIG_PATH"/*.ini "$ROOTFS_PATH"/var/llizard/
+fi
+
 # Create build-info
 echo "version: ${LLIZARDOS_VERSION:-dev}" > "$ROOTFS_PATH"/etc/llizardOS/build-info
 echo "build_date: $(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$ROOTFS_PATH"/etc/llizardOS/build-info
